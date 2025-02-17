@@ -5,4 +5,4 @@ chmod +x publish_to_gh_pages.sh
 hugo
 
 # then can be run
-./publish_to_gh-pages.sh public domchang1/hugo-mock-landing-page
+./publish_to_gh-pages.sh public domchang1/hugo-mock-landing-page-autodeployed

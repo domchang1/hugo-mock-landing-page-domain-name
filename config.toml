@@ -1,12 +1,12 @@
 baseURL = 'https://domchang1.github.io/hugo-mock-landing-page-autodeployed/'
-publishDir = 'layouts'
+# publishDir = 'layouts'
 title = "Lift.io"
 author = "Dominic Chang"
 copyright = "Dominic Chang"
-
 timeZone = 'Europe/London'
 
 # Multilingual
+languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 

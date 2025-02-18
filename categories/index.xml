@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Lift.io</title>
-    <link>https://domchang1.github.io/hugo-mock-landing-page-autodeployed/categories/</link>
-    <description>Recent content in Categories on Lift.io</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Dominic Chang</copyright>
-    <atom:link href="https://domchang1.github.io/hugo-mock-landing-page-autodeployed/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Lift.io</title><link>https://domchang1.github.io/hugo-mock-landing-page-autodeployed/categories/</link><description>Recent content in Categories on Lift.io</description><generator>Hugo</generator><language>en</language><copyright>Dominic Chang</copyright><lastBuildDate>Tue, 18 Feb 2025 22:18:02 +0000</lastBuildDate><atom:link href="https://domchang1.github.io/hugo-mock-landing-page-autodeployed/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>The Bootstrap Blog</title><link>https://domchang1.github.io/hugo-mock-landing-page-autodeployed/categories/the-bootstrap-blog/</link><pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate><guid>https://domchang1.github.io/hugo-mock-landing-page-autodeployed/categories/the-bootstrap-blog/</guid><description/></item></channel></rss>

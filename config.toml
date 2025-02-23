@@ -1,4 +1,4 @@
-baseURL = 'https://domchang1.github.io/hugo-mock-landing-page-domain-name/'
+baseURL = 'http://luffy.lol/'
 # publishDir = 'layouts'
 title = "Lift.io"
 author = "Dominic Chang"
